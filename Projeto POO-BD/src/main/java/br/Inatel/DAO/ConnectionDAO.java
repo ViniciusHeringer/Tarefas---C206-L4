@@ -1,3 +1,5 @@
+package br.Inatel.DAO;
+
 import java.sql.*;
 
 public class ConnectionDAO
